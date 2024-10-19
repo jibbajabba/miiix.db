@@ -1,0 +1,8 @@
+const videos = [
+  { id: 1, title: 'Basic Beatmatching Tutorial', source: 'DJ TechTools', tags: ['Beatmatching', 'Basic Blending'] },
+  { id: 2, title: 'Advanced EQ Mixing Techniques', source: 'Crossfader', tags: ['EQ Mixing', 'Filter Transition'] },
+  { id: 3, title: 'Harmonic Mixing Masterclass', source: 'Digital DJ Tips', tags: ['Harmonic Mixing', 'Mashups & Remixing'] },
+  { id: 4, title: 'Creative Looping in EDM', source: 'Point Blank Music School', tags: ['Looping', 'Build-Up/Breakdown'] },
+  { id: 5, title: 'Mastering the Double Drop', source: 'DJ Ravine', tags: ['Double Drop', 'Drop Swapping'] },
+  { id: 6, title: 'Effective Use of Echo Out', source: 'Club Ready DJ School', tags: ['Echo Out', 'Slip Mode'] },
+];
